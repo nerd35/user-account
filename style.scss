@@ -4,3 +4,9 @@
 .card-section{
     max-width: 18rem;
 }
+.links{
+    text-decoration: none;
+    &:hover{
+        text-decoration: none;
+    }
+}

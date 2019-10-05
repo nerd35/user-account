@@ -5,4 +5,12 @@
 .card-section {
   max-width: 18rem;
 }
+
+.links {
+  text-decoration: none;
+}
+
+.links:hover {
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.css.map */
